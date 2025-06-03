@@ -1,6 +1,14 @@
-Hi, I'm Benjamin Evans! 👋
+Hi, I'm Benjamin Evans! AKA KnifeySpooney 👋
 
-I'm an aspiring Cybersecurity Analyst with over 15 years of experience working hands-on with computer systems and a strong foundation in network traffic analysis, threat detection, and Linux-based security environments. Recently completed the Google Cybersecurity Certificate, with additional independent training in Wireshark, SIEM tools, and Ghidra for reverse engineering. Comfortable building lab environments, analyzing logs, and automating tasks with Python. Looking to contribute to a SOC or security team in an entry-level analyst role, bringing a practical, problem-solving mindset, strong attention to detail, and an eagerness to grow within the field. 
+ I'm a developer committed to advancing the field of cybersecurity through user-centric and efficient software solutions. My objective is to create tools that empower users, from learners to practitioners, by simplifying complex security tasks.
+
+Signature Projects Under Development:
+
+    SP3CTR (specter): A network traffic analyzer designed for enhanced clarity and ease of use. It is only a part of a suite. 
+
+My technical expertise includes Python, network protocols, real-time data communication, and creating effective interfaces for security applications. I am continually exploring new technologies to address evolving cybersecurity challenges.
+
+Professional inquiries and connections are welcome via https://www.linkedin.com/in/benjamin-evans-9a9517307/?originalSubdomain=ca / or at hi@toastcanada.net
 
 ## My Resume
 You can view my custom, hand-made HTML & Tailwind CSS based resume here: 
