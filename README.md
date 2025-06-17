@@ -5,6 +5,7 @@ Hi, I'm Benjamin Evans! AKA KnifeySpooney 👋
 Signature Projects Under Development:
 
     SP3CTR (specter): A network traffic analyzer designed for enhanced clarity and ease of use. 
+    SH4DOW (shadow): A modular honeypot and deception intelligence platform 
 
 My technical expertise includes Python, network protocols, real-time data communication, and creating effective interfaces for security applications. I am continually exploring new technologies to address evolving cybersecurity challenges.
 
